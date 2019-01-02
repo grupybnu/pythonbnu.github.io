@@ -1,0 +1,36 @@
+language: ruby
+rvm:
+  - 2.5.1
+
+script:
+  - bundle install
+  - bundle exec jekyll build
+  - cd  ./_site
+  - git init
+  - git config user.name "Travis CI"
+  - git add . && git commit -m "Deploy github-pages"
+  - git remote add origin https://rtancman:$GITHUB_API_KEY@github.com/pythonbnu/pythonbnu.github.io.git
+  - git push origin master -f
+
+branches:
+  only:
+  - jekyll
+  - /pages-(.*)/ # test every branch which starts with "pages-"
+
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+
+addons:
+  apt:
+    packages:
+    - libcurl4-openssl-dev
+
+sudo: false # route your build to the container-based infrastructure for a faster build
+
+cache: bundler # caching bundler gem packages will speed up build
+
+
+# Optional: disable email notifications about the outcome of your builds
+notifications:
+  email: false

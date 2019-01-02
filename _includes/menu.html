@@ -1,0 +1,68 @@
+<nav class="navbar navbar-expand-lg navbar-dark fixed-top mediumnavigation nav-down">
+  <div class="container pr-0">
+    <a class="navbar-brand" href="{{ site.baseurl }}/">
+      <h1>{{ site.name }}</h1>
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent"
+      aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarMediumish">
+      <ul class="navbar-nav ml-auto">
+        {% if page.url == "/" %}
+        <li class="nav-item active">
+          {% else %}
+        <li class="nav-item">
+          {% endif %}
+          <a class="nav-link" href="{{ site.baseurl }}/">Home</a>
+        </li>
+        {% if page.url == "/comunidade.html" %}
+        <li class="nav-item active">
+          {% else %}
+        <li class="nav-item">
+          {% endif %}
+          <a class="nav-link" href="{{ site.baseurl }}/comunidade">Comunidade</a>
+        </li>
+
+        {% if page.url == "/encontros.html" %}
+        <li class="nav-item active">
+          {% else %}
+        <li class="nav-item">
+          {% endif %}
+          <a class="nav-link" href="{{ site.baseurl }}/encontros">Encontros</a>
+        </li>
+
+        {% if page.url == "/empresas.html" %}
+        <li class="nav-item active">
+          {% else %}
+        <li class="nav-item">
+          {% endif %}
+          <a class="nav-link" href="{{ site.baseurl }}/empresas">Empresas</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.hackerspaceblumenau }}">Hackerspace Blumenau</a>
+        </li>
+        <li class="nav-item nav-item--icons">
+          <a class="nav-link" href="{{ site.facebook }}">
+            <i class="fab fa-facebook"></i>
+          </a>
+        </li>
+        <li class="nav-item nav-item--icons">
+          <a class="nav-link" href="{{ site.telegram }}">
+            <i class="fab fa-telegram"></i>
+          </a>
+        </li>
+        <li class="nav-item nav-item--icons">
+          <a class="nav-link" href="{{ site.github }}">
+            <i class="fab fa-github"></i>
+          </a>
+        </li>
+        <li class="nav-item nav-item--icons">
+          <a class="nav-link" href="{{ site.slack }}">
+            <i class="fab fa-slack"></i>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>

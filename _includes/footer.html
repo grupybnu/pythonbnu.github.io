@@ -1,0 +1,80 @@
+<footer class="footer">
+  <div class="mediumnavigation">
+    <div class="container">
+      <ul class="nav">
+          <li class="nav-item">
+            <a class="navbar-brand" href="{{ site.baseurl }}/">
+              <span class="blumenaujs">{{ site.name }}</span>
+            </a>
+        </li>
+        {% if page.url == "/" %}
+        <li class="nav-item active">
+          {% else %}
+        <li class="nav-item">
+          {% endif %}
+          <a class="nav-link" href="{{ site.baseurl }}/">Home</a>
+        </li>
+        {% if page.url == "/comunidade" %}
+        <li class="nav-item active">
+          {% else %}
+        <li class="nav-item">
+          {% endif %}
+          <a class="nav-link" href="{{ site.baseurl }}/comunidade">Comunidade</a>
+        </li>
+
+        {% if page.url == "/encontros" %}
+        <li class="nav-item active">
+          {% else %}
+        <li class="nav-item">
+          {% endif %}
+          <a class="nav-link" href="{{ site.baseurl }}/encontros">Encontros</a>
+        </li>
+
+        {% if page.url == "/empresas" %}
+        <li class="nav-item active">
+          {% else %}
+        <li class="nav-item">
+          {% endif %}
+          <a class="nav-link" href="{{ site.baseurl }}/empresas">Empresas</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.hackerspaceblumenau }}">Hackerspace Blumenau</a>
+        </li>  
+        <li class="nav-item nav-item--icons">
+          <a class="nav-link" href="{{ site.facebook }}">
+            <i class="fab fa-facebook"></i>
+          </a>
+        </li>
+        <li class="nav-item nav-item--icons">
+          <a class="nav-link" href="{{ site.telegram }}">
+            <i class="fab fa-telegram"></i>
+          </a>
+        </li>
+        <li class="nav-item nav-item--icons">
+          <a class="nav-link" href="{{ site.github }}">
+            <i class="fab fa-github"></i>
+          </a>
+        </li>
+        <li class="nav-item nav-item--icons">
+          <a class="nav-link" href="{{ site.slack }}">
+            <i class="fab fa-slack"></i>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer--copyright">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 col-sm-6 text-center text-lg-left">
+          Copyright © {{ site.time | date: "%Y" }} {{ site.name }}
+        </div>
+        <div class="col-md-6 col-sm-6 text-center text-lg-right">
+          <a target="_blank" href="https://python.org.br/">
+            <img width="100px" alt="Python Brasil" src="{{ site.baseurl }}/{{ site.pythonbrasillogo }}" />
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>

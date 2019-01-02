@@ -1,0 +1,68 @@
+# Site
+name: "Grupy Blumenau"
+author: "Grupy Blumenau"
+description: "Comunidade Python de Blumenau"
+meta_description: "Grupy Blumenau é uma comunidade de usuários da linguagem e do ecossistema Python em Blumenau, Santa Catarina."
+logo: 'assets/images/python-logo.png'
+pythonbrasillogo: 'assets/images/python-brasil-logo.svg'
+favicon: 'assets/images/favicon.ico'
+baseurl: ""
+url: "https://pythonbnu.github.io"
+cdn_url: "https://pythonbnu.github.io"
+twitter_username: pythonbnu
+github_username:  pythonbnu
+facebook_username: pythonbnu
+linkedin_username: pythonbnu
+facebook_app_id: 'XXXXXX'
+google_analytics: 'XXXX'
+disqus: 'pythonbnu'
+mailchimp-list: 'XXXX'
+facebook: https://www.facebook.com/pythonbnu
+twitter: https://www.twitter.com/pythonbnu
+github: https://github.com/pythonbnu
+slack: https://hackerspaceblumenau.slack.com/messages/C6U70HXK4
+discord: 
+whatsapp: 
+youtube:
+telegram: https://t.me/GruPyBnu
+hackerspaceblumenau: http://www.hackerspaceblumenau.org/
+
+# Authors
+authors:
+  pythonbnu:
+    name: Grupy Blumenau
+    display_name: Grupy Blumenau
+    gravatar: 
+    email: 
+    web: 
+    twitter: https://twitter.com/pythonbnu
+    description: "Grupy Blumenau é uma comunidade de usuários da linguagem e do ecossistema Python em Blumenau, Santa Catarina."
+  john:
+    name: John
+    display_name: John
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net
+    twitter: https://twitter.com/wowthemesnet
+    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-archives
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/:name/'
+
+# Pagination
+paginate: 6
+paginate_path: /page:num/
+
+# Other
+markdown: kramdown
+highlighter: rouge
