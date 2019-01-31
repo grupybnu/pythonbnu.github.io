@@ -5,8 +5,6 @@ description: "Encontro da Comunidade Python de Blumenau"
 author: pythonbnu
 categories: [ encontros ]
 image: assets/images/encontro-1-grupy-blumenau.jpg
-featured: true
-hidden: true
 ---
 
 Dia 26 de Agosto de 2017 vai rolar I Encontro do GruPy Blumenau no Instituto Gene Blumenau das 14:00hs até às 18:00hs, Rua Antônio da Veiga, 105 - Victor Konder, Blumenau SC.
