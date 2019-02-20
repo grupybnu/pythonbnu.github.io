@@ -1,22 +1,19 @@
 ---
 layout: post
-title:  "II Encontro do GruPy Blumenau"
-description: "II Encontro da Comunidade Python de Blumenau"
+title:  "IV Encontro do GruPy Blumenau"
+description: "IV Encontro da Comunidade Python de Blumenau"
 author: pythonbnu
 categories: [ encontros ]
-image: assets/images/encontro-2-grupy-blumenau.jpg
+image: assets/images/encontro-4-grupy-blumenau.jpg
+featured: true
+hidden: true
 ---
 
+No dia 23 de Março teremos mais um meetup da comunidade GruPy Blumenau! O encontro será na FURB, na R. Antônio da Veiga, 140 - Victor Konder, Blumenau - SC.
 
-No dia 29 de Janeiro teremos mais um meetup da comunidade GruPy Blumenau! O encontro será na FURB, na R. Antônio da Veiga, 140 - Victor Konder, Blumenau - SC.
+Neste encontro vai rolar um workshop de Python onde iremos praticar os principais recursos da linguagem.
 
-O evento vai ocorrer na sala S-427, Bloco S, na FURB. Neste encontro vamos realizar um Dojo utilizando Python como linguagem para solução. A ideia é retomar as atividades e conhecer os pythonistas que estão por Blumenau.
-
-Se você não conhece o Câmpus 1 (em frente ao Giassi), essa figura pode lhe ajudar:
-
-<img src="http://www.furb.br/web/img/mapas/campus_1.jpg" alt="FURB Mapa do Campus"/>
-
-Outra dica é entrar ali pelo Bloco A (passarela da Antônio da Veiga) e perguntar direções no Balcão de informações logo na entrada.
+Fique ligado em breve abriremos as inscrições!
 
 Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:
 
