@@ -7,7 +7,7 @@ logo: 'assets/images/python-logo.png'
 pythonbrasillogo: 'assets/images/python-brasil-logo.svg'
 favicon: 'assets/images/favicon.ico'
 baseurl: ""
-url: "https://pythonbnu.github.io"
+url: "https://blumenau.sc.python.org.br"
 cdn_url: "https://pythonbnu.github.io"
 twitter_username: pythonbnu
 github_username:  pythonbnu
@@ -21,8 +21,8 @@ facebook: https://www.facebook.com/pythonbnu
 twitter: https://www.twitter.com/pythonbnu
 github: https://github.com/pythonbnu
 slack: https://hackerspaceblumenau.slack.com/messages/C6U70HXK4
-discord: 
-whatsapp: 
+discord:
+whatsapp:
 youtube: https://www.youtube.com/channel/UCpYa4wTH1bg_pvsHFw9FImQ
 telegram: https://t.me/GruPyBnu
 hackerspaceblumenau: http://www.hackerspaceblumenau.org/
@@ -34,7 +34,7 @@ authors:
     display_name: Grupy Blumenau
     gravatar: c51b9112603be8fd51b7a85175eee1ca
     email: grupyblumenau@gmail.com
-    web: https://pythonbnu.github.io
+    web: https://blumenau.sc.python.org.br
     twitter: https://twitter.com/pythonbnu
     description: "Grupy Blumenau é uma comunidade de usuários da linguagem e do ecossistema Python em Blumenau, Santa Catarina."
   john:

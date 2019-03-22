@@ -3,7 +3,7 @@ layout: post
 title:  "Serverless com AWS + Python no III Encontro do GruPy Blumenau"
 description: "No III Encontro do GruPy Blumenau tivemos uma palestra do Raffael Tancman sobre Serverless com AWS + Python."
 author: pythonbnu
-categories: [ encontros ]
+categories: [ talks ]
 image: assets/images/encontro-3-grupy-blumenau-foto-comunidade.jpg
 ---
 
