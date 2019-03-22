@@ -13,7 +13,20 @@ No dia 23 de Março teremos mais um meetup da comunidade GruPy Blumenau! O encon
 
 Neste encontro vai rolar um workshop de Python onde iremos praticar os principais recursos da linguagem.
 
-Fique ligado em breve abriremos as inscrições!
+Workshop prático para iniciantes na linguagem python
+
+Nesse workshop prático vamos apresentar a linguagem python e o seu ecossistema.
+Os temas cobertos durante o workshop são:
+- A linguagem python (focado em python 3+), mas demonstrando algumas das novidades
+- Sobre a linguagem: comandos básicos, estruturas básicas
+- Pacotes disponíveis nas bibliotecas padrões do python
+- Como instalar pacotes/bibliotecas e gerenciar ambientes virtuais
+
+O foco do workshop é para iniciantes na linguagem, mas se você já tem experiência pode comparecer para compartilhar suas ideias e ajudar as demais pessoas que estão aprendendo.
+
+Vamos iniciar às 9h até às 12h (dependendo dos exercícios), mas teremos uma pausa de 30 minutos para café.
+
+[Clique neste link para a sua inscrição.](https://www.meetup.com/hackerspaceblumenau/events/259512011/?_xtd=gatlbWFpbF9jbGlja9oAJDE0NTgxZmM2LTFjYTUtNDAyZi04Y2VlLTAzYTM5MmZhOWM1OA)
 
 Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:
 
@@ -27,7 +40,5 @@ Caso você queira se inteirar mais sobre a comunidade de Python, também sugerim
     <li><a href="https://groups.google.com/forum/#!forum/python-brasil">Lista de discussão da comunidade de Python do Brasil</a></li>
 </ul>
 
-
 Grande abraço!
-
 #forcapython
