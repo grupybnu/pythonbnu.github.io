@@ -1,19 +1,19 @@
 ---
 layout: post
-title:  "III Encontro do GruPy Blumenau"
-description: "III Encontro da Comunidade Python de Blumenau"
+title:  "V Encontro do GruPy Blumenau"
+description: "V Encontro da Comunidade Python de Blumenau"
 author: pythonbnu
 categories: [ encontros ]
-image: assets/images/encontro-3-grupy-blumenau.jpg
+image: assets/images/encontro-4-grupy-blumenau.jpg
+featured: true
+hidden: true
 ---
 
-No dia 19 de Fevereiro teremos mais um meetup da comunidade GruPy Blumenau! O encontro será na FURB, na R. Antônio da Veiga, 140 - Victor Konder, Blumenau - SC.
+No dia 16 de Abril teremos mais um meetup da comunidade GruPy Blumenau! O encontro será na FURB, na R. Antônio da Veiga, 140 - Victor Konder, Blumenau - SC.
 
-Neste encontro o assunto será sobre **Serverless utilizando AWS Lambda + Python** com a talk do Raffael Tancman.
+Submeta sua proposta de palestra até dia 10/04/2019. [Clique aqui e acesse o speakerfight para submeter a sua talk.](https://speakerfight.com/events/v-encontro-do-grupy-blumenau-abril2019/)
 
-Explicaremos como realizar o setup do seu código Python no AWS Lambda. Vamos desmistificar o serviço da Amazon e explicar uma forma de organizar os seus lambdas utilizando o Apex.run e falar sobre as pegadinhas em utilizar Python neste serviço.
-
-[Faça a sua inscrição clicando aqui!](https://www.meetup.com/hackerspaceblumenau/events/258556228/)
+Compartilhe o seu conhecimento conosco!
 
 Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:
 
@@ -27,7 +27,5 @@ Caso você queira se inteirar mais sobre a comunidade de Python, também sugerim
     <li><a href="https://groups.google.com/forum/#!forum/python-brasil">Lista de discussão da comunidade de Python do Brasil</a></li>
 </ul>
 
-
 Grande abraço!
-
 #forcapython
