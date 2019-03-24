@@ -4,7 +4,7 @@ title:  "V Encontro do GruPy Blumenau"
 description: "V Encontro da Comunidade Python de Blumenau"
 author: pythonbnu
 categories: [ encontros ]
-image: assets/images/encontro-4-grupy-blumenau.jpg
+image: assets/images/encontro-5-grupy-blumenau.jpg
 featured: true
 hidden: true
 ---
