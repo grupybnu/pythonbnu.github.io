@@ -11,9 +11,11 @@ hidden: true
 
 No dia 16 de Abril teremos mais um meetup da comunidade GruPy Blumenau! O encontro será na FURB, na R. Antônio da Veiga, 140 - Victor Konder, Blumenau - SC.
 
-Submeta sua proposta de palestra até dia 10/04/2019. [Clique aqui e acesse o speakerfight para submeter a sua talk.](https://speakerfight.com/events/v-encontro-do-grupy-blumenau-abril2019/)
+Veja a grade do evento:
 
-Compartilhe o seu conhecimento conosco!
+<img src="/assets/images/econtro-16-04-2019/grade.png" alt="Grade do V Encontro da Comunidade Python de Blumenau"/>
+
+Em breve vamos abrir as inscrições fique ligado no nosso site e nas nossas redes sociais!
 
 Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:
 
