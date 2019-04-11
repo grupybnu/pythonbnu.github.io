@@ -13,9 +13,11 @@ No dia 16 de Abril teremos mais um meetup da comunidade GruPy Blumenau! O encont
 
 Veja a grade do evento:
 
-<img src="/assets/images/econtro-16-04-2019/grade.png" alt="Grade do V Encontro da Comunidade Python de Blumenau"/>
+- 19:00 - 19:20 Lightning talks
+- 19:20 - 20:50 Dojo
+- 20:55 - 21:00 Encerramento / Foto oficial
 
-Em breve vamos abrir as inscrições fique ligado no nosso site e nas nossas redes sociais!
+Faça a sua inscrição pelo meetup [https://www.meetup.com/hackerspaceblumenau/events/260525133/](https://www.meetup.com/hackerspaceblumenau/events/260525133/)
 
 Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:
 
