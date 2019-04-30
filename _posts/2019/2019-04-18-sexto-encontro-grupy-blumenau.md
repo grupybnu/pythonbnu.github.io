@@ -11,7 +11,9 @@ hidden: true
 
 No dia 18 de Maio teremos mais um meetup da comunidade GruPy Blumenau! O encontro será na FURB, na R. Antônio da Veiga, 140 - Victor Konder, Blumenau - SC.
 
-Submeta a sua proposta de palestras ou workshop para o nosso encontro pelo Speakerfight:
+[Faça a sua inscrição pelo Meetup clicando aqui!!!](https://www.meetup.com/hackerspaceblumenau/events/260967562/)
+
+Você também pode submeter a sua proposta de palestras ou workshop para o nosso encontro pelo Speakerfight:
 
 [https://speakerfight.com/events/vi-encontro-do-grupy-blumenau-maio2019/](https://speakerfight.com/events/vi-encontro-do-grupy-blumenau-maio2019/)
 
