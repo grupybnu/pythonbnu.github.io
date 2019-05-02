@@ -32,6 +32,14 @@
           <a class="nav-link" href="{{ site.baseurl }}/encontros">Encontros</a>
         </li>
 
+        {% if page.url == "/logo.html" %}
+        <li class="nav-item active">
+          {% else %}
+        <li class="nav-item">
+          {% endif %}
+          <a class="nav-link" href="{{ site.baseurl }}/logo">Logo</a>
+        </li>
+
         {% if page.url == "/empresas.html" %}
         <li class="nav-item active">
           {% else %}
