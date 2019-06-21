@@ -5,8 +5,7 @@ description: "V Encontro da Comunidade Python de Blumenau"
 author: pythonbnu
 categories: [ encontros ]
 image: assets/images/encontro-5-grupy-blumenau.jpg
-featured: true
-hidden: true
+hidden: false
 ---
 
 No dia 16 de Abril teremos mais um meetup da comunidade GruPy Blumenau! O encontro será na FURB, na R. Antônio da Veiga, 140 - Victor Konder, Blumenau - SC.
