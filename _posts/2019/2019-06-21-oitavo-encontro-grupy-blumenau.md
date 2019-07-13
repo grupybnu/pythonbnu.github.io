@@ -4,7 +4,7 @@ title:  "VIII Encontro do GruPy Blumenau - Workshop de Django"
 description: "VIII Encontro da Comunidade Python de Blumenau vamos ter um workshop no framework web Django"
 author: pythonbnu
 categories: [ encontros ]
-image: assets/images/encontro-8-grupy-blumenau.jpg
+image: /assets/images/canvas/tutorial-django-encontro-8-grupy-blumenau.png
 featured: true
 hidden: true
 ---
@@ -12,6 +12,10 @@ hidden: true
 No dia 20 de Julho teremos mais um meetup da comunidade GruPy Blumenau! O encontro será na FURB, na R. Antônio da Veiga, 140 - Victor Konder, Blumenau - SC.
 
 Neste encontro vai rolar um workshop de Django para criar um Blog.
+
+
+Faça a sua inscrição pelo Meetup:
+[https://www.meetup.com/hackerspaceblumenau/events/262638110/](https://www.meetup.com/hackerspaceblumenau/events/262638110/)
 
 Workshop de Django vai ser feito com o material da comunidade [djangogirls](https://tutorial.djangogirls.org/pt/) onde iremos apresentar o framework e construir um blog passando pelos principais recursos do framework.
 
@@ -25,7 +29,7 @@ O foco do workshop é para iniciantes em Django, mas se você já tem experiênc
 
 Vamos iniciar às 9h até às 12h, mas teremos uma pausa de 30 minutos para café.
 
-Em breve abriremos as inscrições fique ligados em nossos canais de comunicação.
+<img src="/assets/images/encontro-8-grupy-blumenau.jpg" alt="VIII Encontro do GruPy Blumenau - Workshop de Django"/>
 
 Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:
 
