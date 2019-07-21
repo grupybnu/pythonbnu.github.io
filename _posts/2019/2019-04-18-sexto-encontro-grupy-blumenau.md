@@ -5,8 +5,6 @@ description: "VI Encontro da Comunidade Python de Blumenau"
 author: pythonbnu
 categories: [ encontros ]
 image: assets/images/encontro-6-grupy-blumenau.jpg
-featured: true
-hidden: true
 ---
 
 No dia 18 de Maio teremos mais um meetup da comunidade GruPy Blumenau! O encontro será na FURB, na R. Antônio da Veiga, 140 - Victor Konder, Blumenau - SC.
