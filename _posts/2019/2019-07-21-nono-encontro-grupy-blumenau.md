@@ -5,8 +5,6 @@ description: "XI Encontro da Comunidade Python de Blumenau vamos ter um dia rech
 author: pythonbnu
 categories: [ encontros ]
 image: /assets/images/canvas/submissao-de-palestras-encontro-9-grupy-blumenau.png
-featured: true
-hidden: true
 ---
 
 IX Encontro do GruPy Blumenau

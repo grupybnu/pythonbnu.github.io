@@ -5,8 +5,6 @@ description: "VIII Encontro da Comunidade Python de Blumenau vamos ter um worksh
 author: pythonbnu
 categories: [ encontros ]
 image: /assets/images/canvas/tutorial-django-encontro-8-grupy-blumenau.png
-featured: true
-hidden: true
 ---
 
 No dia 20 de Julho teremos mais um meetup da comunidade GruPy Blumenau! O encontro será na FURB, na R. Antônio da Veiga, 140 - Victor Konder, Blumenau - SC.
