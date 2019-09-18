@@ -5,8 +5,6 @@ description: "Evento para que a comunidade conheça as empresas da região além
 author: pythonbnu
 categories: [ encontros ]
 image: /assets/images/encontros/2019/08/python-nas-empresas/python-nas-empresas.png
-featured: true
-hidden: true
 ---
 
 No dia 22 de Agosto tivemos a primeira edição em Blumenau do "Python nas Empresas" na HBSIS. Este evento tem como missão o networking e para que a comunidade conheça as empresas da região.
