@@ -5,8 +5,6 @@ description: "XI Encontro da Comunidade Python de Blumenau contou com palestras 
 author: pythonbnu
 categories: [ encontros ]
 image: /assets/images/encontros/2019/08/ix-grupy/ix-grupy-palestra13.jpg
-featured: true
-hidden: true
 ---
 
 Neste encontro que aconteceu na FURB no dia 31/08/2019 tivemos muito networking e conhecimento.
