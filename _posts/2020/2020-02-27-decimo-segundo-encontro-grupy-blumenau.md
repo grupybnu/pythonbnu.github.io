@@ -1,21 +1,25 @@
 ---
 layout: post
-title:  "Python nas Empresas - Edição Linx"
-description: "Evento para que a comunidade conheça as empresas da região além de fazer networking, trocar experiências realizando palestras e debates."
+title:  "XII Encontro do GruPy Blumenau"
+description: "XII Encontro da Comunidade Python de Blumenau"
 author: pythonbnu
 categories: [ encontros ]
-image: /assets/images/encontros/2019/11/python-nas-empresas/Linx-Python-nas-empresas.png
+image: /assets/images/encontros/2020/02/encontro-12-grupy-blumenau.png
+featured: true
+hidden: true
 ---
 
-No dia 12 de Novembro tivemos a segunda edição em Blumenau do "Python nas Empresas" na Linx. Este evento tem como missão o networking e para que a comunidade conheça as empresas da região.
+No dia 29 de Fevereiro teremos mais um meetup da comunidade GruPy Blumenau! O encontro será na FURB, na R. Antônio da Veiga, 140 - Victor Konder, Blumenau - SC. Estaremos na sala S-427, no Bloco S. Esse mapa pode ajudar com a localização dos blocos http://www.furb.br/web/img/mapas/campus_1.jpg
 
-Tivemos 2 palestras que foram:
-- "Lições aprendidas em Microserviços" por Diego Neves
-- "Construindo serviços em cloud serverless usando Python" por Elton Persike e Paulo Schmidt
+[FAÇA A SUA INSCRIÇÃO PELO MEETUP](https://www.meetup.com/hackerspaceblumenau/events/268982806/)
 
-<h4 style="margin-top: 30px;">Veja as fotos do evento:</h4>
+Agenda:
 
-<img src="/assets/images/encontros/2019/11/python-nas-empresas/Linx-Python-nas-empresas-galera.jpg" alt="Participantes do Python nas Empresas - Edição Linx"/>
+- Palestra: Graphql e Python
+Descrição: Vamos embarcar no mundo da graphql e entender o que é o Graphene.
+
+- Oficina / Roda de conversa
+Além da palestra teremos uma roda de conversa sobre a linguagem abordando assuntos que surgirem no dia. Participe e traga as suas dúvidas e questionamentos!
 
 Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:
 
@@ -30,4 +34,4 @@ Caso você queira se inteirar mais sobre a comunidade de Python, também sugerim
 </ul>
 
 Grande abraço!
-#forcapython
+#forcaPython
