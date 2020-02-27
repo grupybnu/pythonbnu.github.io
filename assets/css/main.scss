@@ -28,6 +28,33 @@ body {
 	line-height: 1.2;
 }
 
+
+#projetos {
+    &.row-space {
+        @media (max-width:992px) {
+            margin: 0;
+        }
+    }
+    i {
+        @media (max-width:992px) {
+
+            margin-right: 0;
+        }
+    }
+    .service {
+        @media (max-width:992px) {
+            text-align: center;
+            padding-bottom: 50px;
+        }
+        h4 {
+            @media (max-width:992px) {
+                border-bottom: none;
+                padding-bottom: 0;
+            }
+        }
+    }
+}
+
 .mediumnavigation {
 	h1 {
 		font-family: 'Passion One', cursive;
@@ -74,6 +101,9 @@ body {
 		margin-top: 20px;
 		color: #666;
 		border: 0;
+        @media (max-width:992px) {
+            line-height: inherit;
+        }
 	}
 
 	hr {
@@ -83,7 +113,10 @@ body {
 		position: relative;
 		border: 0;
 		margin: 30px 0 0 0;
-	}	
+        @media (max-width:992px) {
+            width: 100%;
+        }
+    }
 }
 
 .projects {
@@ -142,7 +175,7 @@ body {
 		.navbar-light {
 			.navbar-brand {
 				color: #fff !important;
-	
+
 				// @include hover-focus {
 				// 	color: $navbar-light-active-color;
 				// }
