@@ -13,13 +13,25 @@ No dia 29 de Fevereiro teremos mais um meetup da comunidade GruPy Blumenau! O en
 
 [FAÇA A SUA INSCRIÇÃO PELO MEETUP](https://www.meetup.com/hackerspaceblumenau/events/268982806/)
 
-Agenda:
+Veja o que rolou:
 
-- Palestra: Graphql e Python
-Descrição: Vamos embarcar no mundo da graphql e entender o que é o Graphene.
+- [Palestra: Graphql e Python](https://docs.google.com/presentation/d/1-vXFdpoqsG6aJmnh91KYnNUXwF8nG5R-T4uZcPvAjM4/edit?usp=sharing)
+
+    Palestrante: Raffael Tancman
+
+    Descrição: Vamos embarcar no mundo da graphql e entender o que é o Graphene.
 
 - Oficina / Roda de conversa
-Além da palestra teremos uma roda de conversa sobre a linguagem abordando assuntos que surgirem no dia. Participe e traga as suas dúvidas e questionamentos!
+
+
+    Além da palestra teremos uma roda de conversa sobre a linguagem abordando assuntos que surgirem no dia. Participe e traga as suas dúvidas e questionamentos!
+
+
+<h4 style="margin-top: 30px;">Veja as fotos do evento:</h4>
+
+<img src="/assets/images/encontros/2020/02/fotos-encontro-12-grupy-blumenau-1.jpg" alt="Participantes do Encontro de Python"/>
+<img src="/assets/images/encontros/2020/02/fotos-encontro-12-grupy-blumenau-2.jpg" alt="Participantes do Encontro de Python"/>
+<img src="/assets/images/encontros/2020/02/fotos-encontro-12-grupy-blumenau-3.jpg" alt="Participantes do Encontro de Python"/>
 
 Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:
 

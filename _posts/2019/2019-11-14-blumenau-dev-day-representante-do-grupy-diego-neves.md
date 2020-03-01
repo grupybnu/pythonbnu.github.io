@@ -5,8 +5,6 @@ description: "Blumenau Dev Day 2019 - Um evento que vai reunir as principais com
 author: pythonbnu
 categories: [ eventos ]
 image: /assets/images/eventos/2019/blumenau-dev-day/blumenaudevday2019.png
-featured: true
-hidden: true
 ---
 
 Um evento que vai reunir as principais comunidades de Blumenau para um dia de muito conhecimento e network.
