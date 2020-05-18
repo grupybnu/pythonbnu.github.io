@@ -5,8 +5,6 @@ description: "XII Encontro da Comunidade Python de Blumenau"
 author: pythonbnu
 categories: [ encontros ]
 image: /assets/images/encontros/2020/02/encontro-12-grupy-blumenau.png
-featured: true
-hidden: true
 ---
 
 No dia 29 de Fevereiro teremos mais um meetup da comunidade GruPy Blumenau! O encontro será na FURB, na R. Antônio da Veiga, 140 - Victor Konder, Blumenau - SC. Estaremos na sala S-427, no Bloco S. Esse mapa pode ajudar com a localização dos blocos http://www.furb.br/web/img/mapas/campus_1.jpg
