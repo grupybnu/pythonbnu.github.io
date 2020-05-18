@@ -1,21 +1,23 @@
 ---
 layout: post
-title:  "1º Encontro Pyladies Blumenau"
-description: "1º Encontro Pyladies Blumenau"
+title:  "14º Encontro do GruPy Blumenau online"
+description: "14º Encontro da Comunidade Python de Blumenau"
 author: pythonbnu
 categories: [ encontros ]
-image: /assets/images/encontros/2020/03/encontro-1-pyladies-blumenau.jpg
+image: /assets/images/encontros/2020/05/encontro-14-grupy-blumenau.png
+featured: true
+hidden: true
 ---
 
-No último dia 07 de março aconteceu o primeiro encontro do Pyladies Blumenau! Viva! 
-As mulheres presentes no encontro na Serasa Consumidor fizeram uma roda de conversa sobre a vida de desenvolvedora. 
+No dia 27 de Maio teremos mais um meetup da comunidade GruPy Blumenau! O encontro será online por conta da covid-19 e será transmitido pelo youtube iniciando às 19:30 no horário de Brasília.
 
-Gostaríamos de parabenizar todas pela iniciativa e dizer que estamos ansiosos para ver quais serão os próximos encontros!
+[FAÇA A SUA INSCRIÇÃO PELO MEETUP](https://www.meetup.com/hackerspaceblumenau/events/270734788)
+
+Neste evento teremos 2 palestras de 45min e 2 Lightning talks de 5min. Contamos com a sua presença!
 
 Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:
 
 <ul>
-    <li><a href="https://www.instagram.com/p/B9ckcogF9GB/">Pyladies Blumenau no Instragram</a></li>
     <li><a href="https://www.facebook.com/pythonbnu/">GruPy Blumenau no Facebook</a></li>
     <li><a href="https://twitter.com/pythonbnu">GruPyBnu no Twitter</a></li>
     <li><a href="https://telegram.me/GruPyBnu">GruPyBnu no Telegram</a></li>
