@@ -9,11 +9,22 @@ featured: true
 hidden: true
 ---
 
-No dia 27 de Maio teremos mais um meetup da comunidade GruPy Blumenau! O encontro será online por conta da covid-19 e será transmitido pelo youtube iniciando às 19:30 no horário de Brasília.
+No dia 27 de Maio tivemos mais um meetup da comunidade GruPy Blumenau! O encontro rolou online por conta da covid-19.
 
-[FAÇA A SUA INSCRIÇÃO PELO MEETUP](https://www.meetup.com/hackerspaceblumenau/events/270734788)
+Agenda:
 
-Neste evento teremos 2 palestras de 45min e 2 Lightning talks de 5min. Contamos com a sua presença!
+- SmartCity - Um novo mundo
+
+    Palestrante: [Diego Neves](https://www.linkedin.com/in/diego-neves-508b76a/)
+
+- Vim/NeoVim
+
+    Palestrante: [Jônatas Luiz de Oliveira](https://www.linkedin.com/in/jonatasoliveirame/)
+
+
+<h4 style="margin-top: 30px;">Veja como foi:</h4>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tr8fqTxegGw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:
 
