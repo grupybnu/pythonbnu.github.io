@@ -5,8 +5,6 @@ description: "13º Encontro da Comunidade Python de Blumenau - versão online"
 author: pythonbnu
 categories: [ encontros ]
 image: /assets/images/encontros/2020/03/encontro-13-grupy-blumenau-online.png
-featured: true
-hidden: true
 ---
 
 No final de Abril/2020 tivemos a primeira edição online por conta da covid-19. Este evento aconteceu no [meetup](https://www.meetup.com/hackerspaceblumenau/events/270167368/) e com o [link para o evento no youtube](https://youtu.be/-b5qInHvZbU).
