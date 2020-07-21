@@ -1,28 +1,25 @@
 ---
 layout: post
-title:  "14º Encontro do GruPy Blumenau online"
-description: "14º Encontro da Comunidade Python de Blumenau"
+title:  "16º Encontro do GruPy Blumenau online"
+description: "16º Encontro da Comunidade Python de Blumenau"
 author: pythonbnu
 categories: [ encontros ]
-image: /assets/images/encontros/2020/05/encontro-14-grupy-blumenau.png
+image: /assets/images/encontros/2020/07/encontro-16-grupy-blumenau.png
+featured: true
+hidden: true
 ---
 
-No dia 27 de Maio tivemos mais um meetup da comunidade GruPy Blumenau! O encontro rolou online por conta da covid-19.
+No dia 29/07/2020 teremos mais um meetup da comunidade GruPy Blumenau! Nosso encontro será online por conta da pandemia. Live no YouTube do Hackerspace Blumenau: https://youtu.be/Py4SqoDr_PE
 
 Agenda:
 
-- SmartCity - Um novo mundo
+- Observability - praquê server isso
+    Palestrante: Diego Neves / https://www.linkedin.com/in/diego-neves-508b76a/
 
-    Palestrante: [Diego Neves](https://www.linkedin.com/in/diego-neves-508b76a/)
+- Lightning talk 1 (5min)
 
-- Vim/NeoVim
+- Lightning talk 2 (5min)
 
-    Palestrante: [Jônatas Luiz de Oliveira](https://www.linkedin.com/in/jonatasoliveirame/)
-
-
-<h4 style="margin-top: 30px;">Veja como foi:</h4>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Tr8fqTxegGw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:
 
