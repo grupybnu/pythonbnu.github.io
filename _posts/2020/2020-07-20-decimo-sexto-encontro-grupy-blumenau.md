@@ -9,17 +9,16 @@ featured: true
 hidden: true
 ---
 
-No dia 29/07/2020 teremos mais um meetup da comunidade GruPy Blumenau! Nosso encontro será online por conta da pandemia. Live no YouTube do Hackerspace Blumenau: https://youtu.be/Py4SqoDr_PE
+No dia 29 de Julho tivemos mais um meetup da comunidade GruPy Blumenau! O encontro rolou online por conta da covid-19.
 
 Agenda:
 
 - Observability - praquê server isso
     Palestrante: Diego Neves / https://www.linkedin.com/in/diego-neves-508b76a/
 
-- Lightning talk 1 (5min)
+<h4 style="margin-top: 30px;">Veja como foi:</h4>
 
-- Lightning talk 2 (5min)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Py4SqoDr_PE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:
 
