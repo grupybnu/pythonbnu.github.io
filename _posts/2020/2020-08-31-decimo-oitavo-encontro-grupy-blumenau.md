@@ -5,8 +5,6 @@ description: "18º Encontro da Comunidade Python de Blumenau"
 author: pythonbnu
 categories: [ encontros ]
 image: /assets/images/encontros/2020/09/grupy-18-encontro.png
-featured: true
-hidden: true
 ---
 
 No dia 30/09/2020 teremos mais um meetup da comunidade GruPy Blumenau! Nosso encontro será online por conta da pandemia. Live no YouTube do Hackerspace Blumenau: https://youtu.be/Py4SqoDr_PE
@@ -15,13 +13,11 @@ Submeta sua proposta de palestra até dia 15/09/2020 pelo [speakerfight](https:/
 
 Agenda:
 
-- Palestra 1 (45min)
+- Palestra: Interface gráfica para seu script Python com Gtk e o Glade (45min) com Michael De Mattos Ortiz ( https://www.linkedin.com/in/michael-de-mattos-ortiz-57690a17a/ )
 
-- Palestra 2 (45min)
+<h4 style="margin-top: 30px;">Veja como foi:</h4>
 
-- Lightning talk 1 (5min)
-
-- Lightning talk 2 (5min)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EnmoLkHlE3I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:
 

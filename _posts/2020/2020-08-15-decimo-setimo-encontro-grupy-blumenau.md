@@ -5,8 +5,6 @@ description: "17º Encontro da Comunidade Python de Blumenau"
 author: pythonbnu
 categories: [ encontros ]
 image: /assets/images/encontros/2020/08/encontro-17-grupy-blumenau-v2.png
-featured: true
-hidden: true
 ---
 
 No dia 27/08/2020 teremos mais um meetup da comunidade GruPy Blumenau! Nosso encontro será online por conta da pandemia. Live no YouTube do Hackerspace Blumenau: https://youtu.be/Py4SqoDr_PE
