@@ -1,0 +1,28 @@
+name: deploy
+
+on:
+  push:
+    branches:
+      - jekyll
+
+jobs:
+  github-pages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: setup-ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          os: ubuntu-latest
+          ruby-version: '3.1.2'
+          bundler-cache: true
+      - name: jekyll build
+        run: bundle exec jekyll build
+      - name: deploy to gh-pages
+        run: |
+          cd  ./_site
+          git init
+          git config user.name "GithubActions CI/CD"
+          git add . && git commit -m "Deploy github-pages"
+          git remote add origin https://rtancman:${{ secrets.GH_PAGES_GITHUB_TOKEN }}@github.com/rtancman/rtancman.github.io.git
+          git push origin master -f
