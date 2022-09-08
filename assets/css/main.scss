@@ -76,11 +76,16 @@ body {
 }
 
 .header-banner {
-	background: url(../images/banner-grupy-blumenau.jpg) no-repeat bottom center;
-	background-size: cover;
-	position: relative;
-	height: 300px;
-	background-position: 50% 60%;
+	color: #fff;
+    padding: 50px 0 60px;
+    text-align: center;
+    background-color: #1F4665;
+	background-image: linear-gradient(#1e415e 10%,#2b5b84 90%);
+
+	.header-logo {
+		width: 300px;
+		margin-bottom: 30px;
+	}
 
 	.intro-text {
 		text-align: center;

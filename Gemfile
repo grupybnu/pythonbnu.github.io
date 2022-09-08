@@ -21,6 +21,7 @@ group :jekyll_plugins do
   gem 'jekyll-youtube', '~> 1.0'
   gem 'jekyll-giphy', '~> 1.0'
   gem 'jekyll-gist', '~> 1.5'
+  gem 'jekyll-archives', '~> 2.2', '>= 2.2.1'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
