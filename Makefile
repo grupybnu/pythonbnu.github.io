@@ -1,5 +1,5 @@
 setup:
-	gem install bundler
+	gem install bundler --user-install
 	bundle install
 
 run:
