@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Fotos do 27º Encontro do GruPy Blumenau Presencial"
-description: "Veja as fotos do 27º Encontro da Comunidade Python de Blumenau"
+title:  "27º Encontro do GruPy Blumenau Presencial"
+description: "27º Encontro da Comunidade Python de Blumenau"
 author: pythonbnu
 categories: [ encontros ]
 image: /assets/images/encontros/2022/11/grupy-27-encontro.jpg
@@ -9,14 +9,27 @@ featured: true
 hidden: true
 ---
 
-Veja aqui as fotos do nosso encontro que aconteceu dia 03/12/2022.
+O grande momento chegou! Após algum tempo sem encontros presenciais devido à pandemia, no dia 3 de dezembro de 2022, teremos o nosso primeiro encontro presencial! Será o 27º da comunidade de Blumenau. 
 
-<img src="/assets/images/grupy_1.jpeg/iv_encontro_grupyblumenau_galera_1.jpg" alt="Participantes do 27º Econtro do Grupy"/>
+A intenção desse encontro é reunir os desenvolvedores da região para discutir assuntos relacionados à tecnologia e Python. Teremos uma palestra de +/- 45 minutos e um espaço para mais duas palestras curtas de +/- 5 minutos.
 
-<img src="/assets/images/grupy_3.jpeg/27º_encontro_grupyblumenau_galera_2.jpg" alt="Participantes do 27º Econtro do Grupy"/>
 
-<img src="/assets/images/grupy_4.jpeg/iv_encontro_grupyblumenau_workshop_python_1.jpg" alt="Foto do Workshop prático para iniciantes na linguagem Python"/>
+Compartilhe o seu conhecimento conosco!
 
+**Local:**
+
+FURB Campus 1, Bloco S, Sala s410
+
+**Horário:**
+
+9h30 AM
+
+
+**Agenda:**
+
+- Palestra 1 (45min)
+- Lightning talk 1 (5min)
+- Lightning talk 2 (5min)
 
 Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:
 
