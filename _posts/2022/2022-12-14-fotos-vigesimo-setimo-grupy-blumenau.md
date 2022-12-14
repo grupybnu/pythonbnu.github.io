@@ -4,7 +4,7 @@ title:  "Fotos do 27º Encontro do GruPy Blumenau Presencial"
 description: "Veja as fotos do 27º Encontro da Comunidade Python de Blumenau"
 author: pythonbnu
 categories: [ encontros ]
-image: /assets/images/grupy_3.jpeg/27º_encontro_grupyblumenau_galera_2.jpg
+image: /assets/images/encontros/2022/11/grupy-27-encontro.jpg
 featured: true
 hidden: true
 ---
