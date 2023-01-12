@@ -5,8 +5,6 @@ description: "27º Encontro da Comunidade Python de Blumenau"
 author: pythonbnu
 categories: [ encontros ]
 image: /assets/images/encontros/2022/11/grupy-27-encontro.jpg
-featured: true
-hidden: true
 ---
 
 O grande momento chegou! Após algum tempo sem encontros presenciais devido à pandemia, no dia 3 de dezembro de 2022, teremos o nosso primeiro encontro presencial! Será o 27º da comunidade de Blumenau. 
