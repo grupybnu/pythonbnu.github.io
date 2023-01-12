@@ -1,22 +1,37 @@
 ---
 layout: post
-title:  "21º Encontro do GruPy Blumenau online"
-description: "21º Encontro da Comunidade Python de Blumenau"
+title:  "28º Encontro do GruPy Blumenau Presencial"
+description: "28º Encontro da Comunidade Python de Blumenau"
 author: pythonbnu
 categories: [ encontros ]
-image: /assets/images/encontros/2021/02/grupy-21-encontro.png
+image: /assets/images/encontros/2023/01/grupy-28-encontro.jpg
+featured: true
+hidden: true
 ---
 
-Em fevereiro rolou mais um meetup da comunidade GruPy Blumenau! Nosso encontro será online por conta da pandemia. Live no YouTube do Hackerspace Blumenau: https://youtu.be/Py4SqoDr_PE
+Feliz ano novo!!! E para iniciar os trabalhos no dia 25 de Janeiro, teremos o nosso primeiro encontro presencial de 2023! Será o 28º da comunidade de Blumenau. 
 
-Agenda:
+A intenção desse encontro é reunir os desenvolvedores da região para discutir assuntos relacionados à tecnologia e Python. Teremos uma palestra de +/- 45 minutos e um espaço para mais duas palestras curtas de +/- 5 minutos. Compartilhe o seu conhecimento conosco!
 
-- Palestra: Data Vis (45min) com Júlio César Batista ( https://www.linkedin.com/in/juliobatista/ )
+**Submeta a sua palestra pelo Google Forms no link** 
 
-<h4 style="margin-top: 30px;">Veja como foi:</h4>
+https://forms.gle/s1MEhQcHSBMb38Jc8 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/frcVbExTH10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Local:**
 
+FURB Campus 1, Bloco S, Sala s410
+
+**Dia e Horário:**
+
+25/01/2023 às 18h30
+
+
+**Agenda:**
+
+- Palestra 1 (45min)
+- Palestra 2 (45min)
+- Lightning talk 1 (5min)
+- Lightning talk 2 (5min)
 
 Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:
 

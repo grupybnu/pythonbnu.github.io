@@ -5,8 +5,6 @@ description: "22º Encontro da Comunidade Python de Blumenau"
 author: pythonbnu
 categories: [ encontros ]
 image: /assets/images/encontros/2021/03/grupy-22-encontro.png
-featured: true
-hidden: true
 ---
 
 No dia 25 de Março de 2021 teremos mais um meetup da comunidade GruPy Blumenau! Nosso encontro será online por conta da pandemia. A ideia desse encontro é organizar palestras de +/- 45 minutos e ter um espaço para mais duas palestras curtas de +/- 15 minutos. Por favor, mencione a duração da sua palestra ao enviar a proposta.
