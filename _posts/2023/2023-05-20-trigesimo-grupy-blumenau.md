@@ -1,35 +1,29 @@
 ---
 layout: post
-title:  "28º Encontro do GruPy Blumenau Presencial"
-description: "28º Encontro da Comunidade Python de Blumenau"
+title:  "30º Encontro do GruPy Blumenau Presencial"
+description: "30º Encontro da Comunidade Python de Blumenau"
 author: pythonbnu
 categories: [ encontros ]
-image: /assets/images/encontros/2023/01/grupy-28-encontro.jpg
+image: /assets/images/encontros/2023/05/grupy-30-encontro.png
+featured: true
+hidden: true
 ---
 
-Feliz ano novo!!! E para iniciar os trabalhos no dia 25 de Janeiro, teremos o nosso primeiro encontro presencial de 2023! Será o 28º da comunidade de Blumenau.
-
-A intenção desse encontro é reunir os desenvolvedores da região para discutir assuntos relacionados à tecnologia e Python. Teremos uma palestra de +/- 45 minutos e um espaço para mais duas palestras curtas de +/- 5 minutos. Compartilhe o seu conhecimento conosco!
-
-**Submeta a sua palestra pelo Google Forms no link**
-
-https://forms.gle/s1MEhQcHSBMb38Jc8
-
-**Local:**
-
-FURB Campus 1, Bloco S, Sala s410
-
-**Dia e Horário:**
-
-25/01/2023 às 18h30
-
+No dia 20 de Maio teremos o nosso terceiro encontro presencial de 2023! Será o 30º \o/
 
 **Agenda:**
 
-- Palestra 1 (45min)
-- Palestra 2 (45min)
-- Lightning talk 1 (5min)
-- Lightning talk 2 (5min)
+- Worshop (2hs)
+    Tema: "Django mão na massa: Como fazer um serviço para oficina do meu cunhado"
+    Descrição: Vamos fazer um mão na massa passando pela instalação, CRUD e customização do django admin. Para isto vamos construir uma aplicação que gerencia ordem de serviço de uma oficina.
+
+Organizadores:
+- João Paulo Carvalho
+- Raffael Tancman
+
+**Local:** FURB Campus 1, Bloco S, Sala s410
+**Dia e Horário:** 01/03/2023 às 18h30
+**Inscrições:** https://www.meetup.com/hackerspaceblumenau/events/293578460/
 
 Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:
 

@@ -5,8 +5,6 @@ description: "Veja as fotos do 27º Encontro da Comunidade Python de Blumenau"
 author: pythonbnu
 categories: [ encontros ]
 image: /assets/images/encontros/2022/12/27-encontro-grupyblumenau-galera-1.jpeg
-featured: true
-hidden: true
 ---
 
 Veja aqui as fotos do nosso encontro que aconteceu dia 03/12/2022.

@@ -1,35 +1,29 @@
 ---
 layout: post
-title:  "28º Encontro do GruPy Blumenau Presencial"
-description: "28º Encontro da Comunidade Python de Blumenau"
+title:  "29º Encontro do GruPy Blumenau Presencial"
+description: "29º Encontro da Comunidade Python de Blumenau"
 author: pythonbnu
 categories: [ encontros ]
-image: /assets/images/encontros/2023/01/grupy-28-encontro.jpg
+image: /assets/images/encontros/2023/03/grupy-29-encontro.png
+featured: true
+hidden: true
 ---
 
-Feliz ano novo!!! E para iniciar os trabalhos no dia 25 de Janeiro, teremos o nosso primeiro encontro presencial de 2023! Será o 28º da comunidade de Blumenau.
+No dia 01 de Março, teremos o nosso segundo encontro presencial de 2023! Será o 29º \o/
 
 A intenção desse encontro é reunir os desenvolvedores da região para discutir assuntos relacionados à tecnologia e Python. Teremos uma palestra de +/- 45 minutos e um espaço para mais duas palestras curtas de +/- 5 minutos. Compartilhe o seu conhecimento conosco!
 
-**Submeta a sua palestra pelo Google Forms no link**
-
-https://forms.gle/s1MEhQcHSBMb38Jc8
-
-**Local:**
-
-FURB Campus 1, Bloco S, Sala s410
-
-**Dia e Horário:**
-
-25/01/2023 às 18h30
-
-
 **Agenda:**
 
-- Palestra 1 (45min)
-- Palestra 2 (45min)
-- Lightning talk 1 (5min)
-- Lightning talk 2 (5min)
+- Extração de dados de monolito para microsserviços (45min)
+    Palestrante: Guionardo Furlan
+    Descrição: Palestra apresentada na Python Sul 2022, sobre a estratégia de extração de dados de um monolito COBOL.
+    Categoria: python, microsserviços, integração.
+    Dificuldade: Intermediário
+
+**Local:** FURB Campus 1, Bloco S, Sala s410
+**Dia e Horário:** 01/03/2023 às 18h30
+**Inscrições:** https://www.meetup.com/hackerspaceblumenau/events/291816342/
 
 Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:
 
