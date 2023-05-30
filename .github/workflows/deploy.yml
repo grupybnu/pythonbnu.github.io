@@ -10,6 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_PAGES_GITHUB_TOKEN }}
+          ref: jekyll
       - name: setup-ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -22,7 +25,8 @@ jobs:
         run: |
           cd  ./_site
           git init
-          git config user.name "GithubActions CI/CD"
+          git config user.name grupyblumenau
+          git config user.email grupyblumenau@gmail.com
           git add . && git commit -m "Deploy github-pages"
           git remote add origin https://rtancman:${{ secrets.GH_PAGES_GITHUB_TOKEN }}@github.com/pythonbnu/pythonbnu.github.io.git
           git push origin master -f
