@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>Comunidade Python de Blumenau</description>
+    <link>https://blumenau.sc.python.org.br/</link>
+    <atom:link href="https://blumenau.sc.python.org.br/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 08 Mar 2024 13:18:23 +0000</pubDate>
+    <lastBuildDate>Fri, 08 Mar 2024 13:18:23 +0000</lastBuildDate>
+    <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>31º Encontro do GruPy Blumenau Presencial</title>
+        <description>&lt;p&gt;No dia 17 de Junho teremos o nosso quarto encontro presencial de 2023! Será o 31º \o/&lt;/p&gt;
+
+&lt;p&gt;Submeta aqui a sua palestra para o encontro acessando link https://github.com/pythonbnu/meetups/issues/3 .&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Local:&lt;/strong&gt; FURB Campus 1, Bloco S, Sala s410&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dia e Horário:&lt;/strong&gt; 01/03/2023 às 18h30&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Inscrições:&lt;/strong&gt; https://www.meetup.com/hackerspaceblumenau/events/293791478/&lt;/p&gt;
+
+&lt;p&gt;Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/pythonbnu/&quot;&gt;GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://twitter.com/pythonbnu&quot;&gt;GruPyBnu no Twitter&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://telegram.me/GruPyBnu&quot;&gt;GruPyBnu no Telegram&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://hackerspaceblumenau.slack.com/messages/C6U70HXK4&quot;&gt;GruPyBnu no Slack&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/185266825299444/&quot;&gt;Lista de discussão GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/python.brasil/&quot;&gt;Comunidade de Python brasileira no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://groups.google.com/forum/#!forum/python-brasil&quot;&gt;Lista de discussão da comunidade de Python do Brasil&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Grande abraço!
+#forcaPython&lt;/p&gt;
+</description>
+        <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+        <link>https://blumenau.sc.python.org.br/encontros/2023/05/26/trigesimo-primeiro-grupy-blumenau.html</link>
+        <guid isPermaLink="true">https://blumenau.sc.python.org.br/encontros/2023/05/26/trigesimo-primeiro-grupy-blumenau.html</guid>
+        
+        
+        <category>encontros</category>
+        
+      </item>
+    
+      <item>
+        <title>30º Encontro do GruPy Blumenau Presencial</title>
+        <description>&lt;p&gt;No dia 20 de Maio teremos o nosso terceiro encontro presencial de 2023! Será o 30º \o/&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Worshop (2hs)&lt;/p&gt;
+
+    &lt;p&gt;Tema: “Django mão na massa: Como fazer um serviço para oficina do meu cunhado”&lt;/p&gt;
+
+    &lt;p&gt;Descrição: Vamos fazer um mão na massa passando pela instalação, CRUD e customização do django admin. Para isto vamos&lt;/p&gt;
+
+    &lt;p&gt;construir uma aplicação que gerencia ordem de serviço de uma oficina.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Organizadores:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;João Paulo Carvalho&lt;/li&gt;
+  &lt;li&gt;Raffael Tancman&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Local:&lt;/strong&gt; FURB Campus 1, Bloco S, Sala s410&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dia e Horário:&lt;/strong&gt; 01/03/2023 às 18h30&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Inscrições:&lt;/strong&gt; https://www.meetup.com/hackerspaceblumenau/events/293578460/&lt;/p&gt;
+
+&lt;p&gt;Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/pythonbnu/&quot;&gt;GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://twitter.com/pythonbnu&quot;&gt;GruPyBnu no Twitter&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://telegram.me/GruPyBnu&quot;&gt;GruPyBnu no Telegram&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://hackerspaceblumenau.slack.com/messages/C6U70HXK4&quot;&gt;GruPyBnu no Slack&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/185266825299444/&quot;&gt;Lista de discussão GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/python.brasil/&quot;&gt;Comunidade de Python brasileira no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://groups.google.com/forum/#!forum/python-brasil&quot;&gt;Lista de discussão da comunidade de Python do Brasil&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Grande abraço!
+#forcaPython&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+        <link>https://blumenau.sc.python.org.br/encontros/2023/05/20/trigesimo-grupy-blumenau.html</link>
+        <guid isPermaLink="true">https://blumenau.sc.python.org.br/encontros/2023/05/20/trigesimo-grupy-blumenau.html</guid>
+        
+        
+        <category>encontros</category>
+        
+      </item>
+    
+      <item>
+        <title>29º Encontro do GruPy Blumenau Presencial</title>
+        <description>&lt;p&gt;No dia 01 de Março, teremos o nosso segundo encontro presencial de 2023! Será o 29º \o/&lt;/p&gt;
+
+&lt;p&gt;A intenção desse encontro é reunir os desenvolvedores da região para discutir assuntos relacionados à tecnologia e Python. Teremos uma palestra de +/- 45 minutos e um espaço para mais duas palestras curtas de +/- 5 minutos. Compartilhe o seu conhecimento conosco!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Extração de dados de monolito para microsserviços (45min)&lt;/p&gt;
+
+    &lt;p&gt;Palestrante: Guionardo Furlan&lt;/p&gt;
+
+    &lt;p&gt;Descrição: Palestra apresentada na Python Sul 2022, sobre a estratégia de extração de dados de um monolito COBOL.&lt;/p&gt;
+
+    &lt;p&gt;Categoria: python, microsserviços, integração.&lt;/p&gt;
+
+    &lt;p&gt;Dificuldade: Intermediário&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Local:&lt;/strong&gt; FURB Campus 1, Bloco S, Sala s410&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dia e Horário:&lt;/strong&gt; 01/03/2023 às 18h30&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Inscrições:&lt;/strong&gt; https://www.meetup.com/hackerspaceblumenau/events/291816342/&lt;/p&gt;
+
+&lt;p&gt;Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/pythonbnu/&quot;&gt;GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://twitter.com/pythonbnu&quot;&gt;GruPyBnu no Twitter&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://telegram.me/GruPyBnu&quot;&gt;GruPyBnu no Telegram&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://hackerspaceblumenau.slack.com/messages/C6U70HXK4&quot;&gt;GruPyBnu no Slack&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/185266825299444/&quot;&gt;Lista de discussão GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/python.brasil/&quot;&gt;Comunidade de Python brasileira no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://groups.google.com/forum/#!forum/python-brasil&quot;&gt;Lista de discussão da comunidade de Python do Brasil&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Grande abraço!
+#forcaPython&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+        <link>https://blumenau.sc.python.org.br/encontros/2023/03/01/vigesimo-nono-grupy-blumenau.html</link>
+        <guid isPermaLink="true">https://blumenau.sc.python.org.br/encontros/2023/03/01/vigesimo-nono-grupy-blumenau.html</guid>
+        
+        
+        <category>encontros</category>
+        
+      </item>
+    
+      <item>
+        <title>28º Encontro do GruPy Blumenau Presencial</title>
+        <description>&lt;p&gt;Feliz ano novo!!! E para iniciar os trabalhos no dia 25 de Janeiro, teremos o nosso primeiro encontro presencial de 2023! Será o 28º da comunidade de Blumenau.&lt;/p&gt;
+
+&lt;p&gt;A intenção desse encontro é reunir os desenvolvedores da região para discutir assuntos relacionados à tecnologia e Python. Teremos uma palestra de +/- 45 minutos e um espaço para mais duas palestras curtas de +/- 5 minutos. Compartilhe o seu conhecimento conosco!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Submeta a sua palestra pelo Google Forms no link&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;https://forms.gle/s1MEhQcHSBMb38Jc8&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Local:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;FURB Campus 1, Bloco S, Sala s410&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dia e Horário:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;25/01/2023 às 18h30&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Palestra 1 (45min)&lt;/li&gt;
+  &lt;li&gt;Palestra 2 (45min)&lt;/li&gt;
+  &lt;li&gt;Lightning talk 1 (5min)&lt;/li&gt;
+  &lt;li&gt;Lightning talk 2 (5min)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/pythonbnu/&quot;&gt;GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://twitter.com/pythonbnu&quot;&gt;GruPyBnu no Twitter&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://telegram.me/GruPyBnu&quot;&gt;GruPyBnu no Telegram&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://hackerspaceblumenau.slack.com/messages/C6U70HXK4&quot;&gt;GruPyBnu no Slack&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/185266825299444/&quot;&gt;Lista de discussão GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/python.brasil/&quot;&gt;Comunidade de Python brasileira no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://groups.google.com/forum/#!forum/python-brasil&quot;&gt;Lista de discussão da comunidade de Python do Brasil&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Grande abraço!
+#forcaPython&lt;/p&gt;
+</description>
+        <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+        <link>https://blumenau.sc.python.org.br/encontros/2023/01/11/vigesimo-oitavo-grupy-blumenau.html</link>
+        <guid isPermaLink="true">https://blumenau.sc.python.org.br/encontros/2023/01/11/vigesimo-oitavo-grupy-blumenau.html</guid>
+        
+        
+        <category>encontros</category>
+        
+      </item>
+    
+      <item>
+        <title>Fotos do 27º Encontro do GruPy Blumenau Presencial</title>
+        <description>&lt;p&gt;Veja aqui as fotos do nosso encontro que aconteceu dia 03/12/2022.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/encontros/2022/12/27-encontro-grupyblumenau-galera-2.jpeg&quot; alt=&quot;Participantes do 27º Econtro do Grupy&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/encontros/2022/12/27-encontro-grupyblumenau-galera-3.jpeg&quot; alt=&quot;Foto do Workshop prático para iniciantes na linguagem Python&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/pythonbnu/&quot;&gt;GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://twitter.com/pythonbnu&quot;&gt;GruPyBnu no Twitter&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://telegram.me/GruPyBnu&quot;&gt;GruPyBnu no Telegram&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://hackerspaceblumenau.slack.com/messages/C6U70HXK4&quot;&gt;GruPyBnu no Slack&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/185266825299444/&quot;&gt;Lista de discussão GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/python.brasil/&quot;&gt;Comunidade de Python brasileira no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://groups.google.com/forum/#!forum/python-brasil&quot;&gt;Lista de discussão da comunidade de Python do Brasil&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Grande abraço!
+#forcaPython&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+        <link>https://blumenau.sc.python.org.br/encontros/2022/12/14/fotos-vigesimo-setimo-grupy-blumenau.html</link>
+        <guid isPermaLink="true">https://blumenau.sc.python.org.br/encontros/2022/12/14/fotos-vigesimo-setimo-grupy-blumenau.html</guid>
+        
+        
+        <category>encontros</category>
+        
+      </item>
+    
+      <item>
+        <title>27º Encontro do GruPy Blumenau Presencial</title>
+        <description>&lt;p&gt;O grande momento chegou! Após algum tempo sem encontros presenciais devido à pandemia, no dia 3 de dezembro de 2022, teremos o nosso primeiro encontro presencial! Será o 27º da comunidade de Blumenau.&lt;/p&gt;
+
+&lt;p&gt;A intenção desse encontro é reunir os desenvolvedores da região para discutir assuntos relacionados à tecnologia e Python. Teremos uma palestra de +/- 45 minutos e um espaço para mais duas palestras curtas de +/- 5 minutos.&lt;/p&gt;
+
+&lt;p&gt;Compartilhe o seu conhecimento conosco!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Local:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;FURB Campus 1, Bloco S, Sala s410&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Horário:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;9h30 AM&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Palestra 1 (45min)&lt;/li&gt;
+  &lt;li&gt;Lightning talk 1 (5min)&lt;/li&gt;
+  &lt;li&gt;Lightning talk 2 (5min)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/pythonbnu/&quot;&gt;GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://twitter.com/pythonbnu&quot;&gt;GruPyBnu no Twitter&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://telegram.me/GruPyBnu&quot;&gt;GruPyBnu no Telegram&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://hackerspaceblumenau.slack.com/messages/C6U70HXK4&quot;&gt;GruPyBnu no Slack&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/185266825299444/&quot;&gt;Lista de discussão GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/python.brasil/&quot;&gt;Comunidade de Python brasileira no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://groups.google.com/forum/#!forum/python-brasil&quot;&gt;Lista de discussão da comunidade de Python do Brasil&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Grande abraço!
+#forcaPython&lt;/p&gt;
+</description>
+        <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
+        <link>https://blumenau.sc.python.org.br/encontros/2022/11/27/vigesimo-setimo-grupy-blumenau-copy.html</link>
+        <guid isPermaLink="true">https://blumenau.sc.python.org.br/encontros/2022/11/27/vigesimo-setimo-grupy-blumenau-copy.html</guid>
+        
+        
+        <category>encontros</category>
+        
+      </item>
+    
+      <item>
+        <title>22º Encontro do GruPy Blumenau online</title>
+        <description>&lt;p&gt;No dia 25 de Março de 2021 teremos mais um meetup da comunidade GruPy Blumenau! Nosso encontro será online por conta da pandemia. A ideia desse encontro é organizar palestras de +/- 45 minutos e ter um espaço para mais duas palestras curtas de +/- 15 minutos. Por favor, mencione a duração da sua palestra ao enviar a proposta.&lt;/p&gt;
+
+&lt;p&gt;Submeta sua proposta de palestra até dia 25/03/2020 pelo speakerfight &lt;a href=&quot;https://speakerfight.com/events/22o-encontro-do-grupy-blumenau-online/&quot;&gt;https://speakerfight.com/events/22o-encontro-do-grupy-blumenau-online/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Compartilhe o seu conhecimento conosco!&lt;/p&gt;
+
+&lt;p&gt;Agenda:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Palestra 1 (45min)&lt;/li&gt;
+  &lt;li&gt;Palestra 2 (45min)&lt;/li&gt;
+  &lt;li&gt;Lightning talk 1 (5min)&lt;/li&gt;
+  &lt;li&gt;Lightning talk 2 (5min)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/pythonbnu/&quot;&gt;GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://twitter.com/pythonbnu&quot;&gt;GruPyBnu no Twitter&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://telegram.me/GruPyBnu&quot;&gt;GruPyBnu no Telegram&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://hackerspaceblumenau.slack.com/messages/C6U70HXK4&quot;&gt;GruPyBnu no Slack&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/185266825299444/&quot;&gt;Lista de discussão GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/python.brasil/&quot;&gt;Comunidade de Python brasileira no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://groups.google.com/forum/#!forum/python-brasil&quot;&gt;Lista de discussão da comunidade de Python do Brasil&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Grande abraço!
+#forcaPython&lt;/p&gt;
+</description>
+        <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
+        <link>https://blumenau.sc.python.org.br/encontros/2021/02/27/vigesimo-segundo-grupy-blumenau.html</link>
+        <guid isPermaLink="true">https://blumenau.sc.python.org.br/encontros/2021/02/27/vigesimo-segundo-grupy-blumenau.html</guid>
+        
+        
+        <category>encontros</category>
+        
+      </item>
+    
+      <item>
+        <title>21º Encontro do GruPy Blumenau online</title>
+        <description>&lt;p&gt;Em fevereiro rolou mais um meetup da comunidade GruPy Blumenau! Nosso encontro será online por conta da pandemia. Live no YouTube do Hackerspace Blumenau: https://youtu.be/Py4SqoDr_PE&lt;/p&gt;
+
+&lt;p&gt;Agenda:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Palestra: Data Vis (45min) com Júlio César Batista ( https://www.linkedin.com/in/juliobatista/ )&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 style=&quot;margin-top: 30px;&quot;&gt;Veja como foi:&lt;/h4&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/frcVbExTH10&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/pythonbnu/&quot;&gt;GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://twitter.com/pythonbnu&quot;&gt;GruPyBnu no Twitter&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://telegram.me/GruPyBnu&quot;&gt;GruPyBnu no Telegram&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://hackerspaceblumenau.slack.com/messages/C6U70HXK4&quot;&gt;GruPyBnu no Slack&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/185266825299444/&quot;&gt;Lista de discussão GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/python.brasil/&quot;&gt;Comunidade de Python brasileira no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://groups.google.com/forum/#!forum/python-brasil&quot;&gt;Lista de discussão da comunidade de Python do Brasil&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Grande abraço!
+#forcaPython&lt;/p&gt;
+</description>
+        <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
+        <link>https://blumenau.sc.python.org.br/encontros/2021/02/27/vigesimo-primeiro-encontro-grupy-blumenau.html</link>
+        <guid isPermaLink="true">https://blumenau.sc.python.org.br/encontros/2021/02/27/vigesimo-primeiro-encontro-grupy-blumenau.html</guid>
+        
+        
+        <category>encontros</category>
+        
+      </item>
+    
+      <item>
+        <title>20º Encontro do GruPy Blumenau online</title>
+        <description>&lt;p&gt;Em novembro teremos mais um meetup da comunidade GruPy Blumenau! Nosso encontro será online por conta da pandemia. Live no YouTube do Hackerspace Blumenau: https://youtu.be/Py4SqoDr_PE&lt;/p&gt;
+
+&lt;p&gt;Submeta sua proposta de palestra até dia 20/11/2020 pelo speakerfight.&lt;/p&gt;
+
+&lt;p&gt;Agenda:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Palestra 1 (45min)&lt;/li&gt;
+  &lt;li&gt;Palestra 2 (45min)&lt;/li&gt;
+  &lt;li&gt;Lightning talk 1 (5min)&lt;/li&gt;
+  &lt;li&gt;Lightning talk 2 (5min)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/pythonbnu/&quot;&gt;GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://twitter.com/pythonbnu&quot;&gt;GruPyBnu no Twitter&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://telegram.me/GruPyBnu&quot;&gt;GruPyBnu no Telegram&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://hackerspaceblumenau.slack.com/messages/C6U70HXK4&quot;&gt;GruPyBnu no Slack&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/185266825299444/&quot;&gt;Lista de discussão GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/python.brasil/&quot;&gt;Comunidade de Python brasileira no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://groups.google.com/forum/#!forum/python-brasil&quot;&gt;Lista de discussão da comunidade de Python do Brasil&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Grande abraço!
+#forcaPython&lt;/p&gt;
+</description>
+        <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+        <link>https://blumenau.sc.python.org.br/encontros/2020/11/28/vigesimo-encontro-grupy-blumenau.html</link>
+        <guid isPermaLink="true">https://blumenau.sc.python.org.br/encontros/2020/11/28/vigesimo-encontro-grupy-blumenau.html</guid>
+        
+        
+        <category>encontros</category>
+        
+      </item>
+    
+      <item>
+        <title>19º Encontro do GruPy Blumenau online</title>
+        <description>&lt;p&gt;No dia 28/10/2020 rolou mais um meetup da comunidade GruPy Blumenau! O encontro foi online por conta da pandemia. Live no YouTube do Hackerspace Blumenau: https://youtu.be/TE75KM39GTg&lt;/p&gt;
+
+&lt;p&gt;Agenda:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Palestra: Elasticsearch como máquina de busca &amp;amp; Python (45min) com Raffael Tancman (https://www.linkedin.com/in/rtancman/​)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 style=&quot;margin-top: 30px;&quot;&gt;Veja como foi:&lt;/h4&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/TE75KM39GTg&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/pythonbnu/&quot;&gt;GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://twitter.com/pythonbnu&quot;&gt;GruPyBnu no Twitter&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://telegram.me/GruPyBnu&quot;&gt;GruPyBnu no Telegram&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://hackerspaceblumenau.slack.com/messages/C6U70HXK4&quot;&gt;GruPyBnu no Slack&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/185266825299444/&quot;&gt;Lista de discussão GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/python.brasil/&quot;&gt;Comunidade de Python brasileira no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://groups.google.com/forum/#!forum/python-brasil&quot;&gt;Lista de discussão da comunidade de Python do Brasil&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Grande abraço!
+#forcaPython&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+        <link>https://blumenau.sc.python.org.br/encontros/2020/10/28/decimo-nono-encontro-grupy-blumenau.html</link>
+        <guid isPermaLink="true">https://blumenau.sc.python.org.br/encontros/2020/10/28/decimo-nono-encontro-grupy-blumenau.html</guid>
+        
+        
+        <category>encontros</category>
+        
+      </item>
+    
+  </channel>
+</rss>
